@@ -270,7 +270,7 @@ int attr showAsAction 0x0
 int attr showDividers 0x0
 int attr showText 0x0
 int attr showTitle 0x0
-int attr show_buffering 0x0
+int attr show_buffering_av 0x0
 int attr show_shuffle_button 0x0
 int attr show_timeout 0x0
 int attr shutter_background_color 0x0
@@ -1924,7 +1924,7 @@ int styleable PlayerView_player_layout_id 7
 int styleable PlayerView_repeat_toggle_modes 8
 int styleable PlayerView_resize_mode 9
 int styleable PlayerView_rewind_increment 10
-int styleable PlayerView_show_buffering 11
+int styleable PlayerView_show_buffering_av 11
 int styleable PlayerView_show_shuffle_button 12
 int styleable PlayerView_show_timeout 13
 int styleable PlayerView_shutter_background_color 14
